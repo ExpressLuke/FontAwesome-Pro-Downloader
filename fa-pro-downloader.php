@@ -16,7 +16,7 @@
 
 if (php_sapi_name() != 'cli') die("This program cannot be run in server mode.");
 
-define('FA_URL', 'https://pro.fontawesome.com/releases/v6.0.0-beta3/');
+define('FA_URL', 'https://site-assets.fontawesome.com/releases/v6.0.0/');
 
 $ds = DIRECTORY_SEPARATOR;
 
